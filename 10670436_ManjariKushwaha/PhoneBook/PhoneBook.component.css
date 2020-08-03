@@ -1,0 +1,17 @@
+.thumbnail {
+    position: float;
+    left: 0px;
+    width: 300px;
+	height: 180px;
+    border:3px solid green;
+    padding: 10px;
+}
+
+.input ng-invalid.ng-touched {
+    background-color:rosybrown;
+  }
+
+  input ng-valid.ng-touched {
+    background-color:yellow;
+
+
